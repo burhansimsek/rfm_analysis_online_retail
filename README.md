@@ -1,5 +1,6 @@
 # Customer Segmentation with RFM Analysis
-# Keywords -> Pyhton, Pandas, Data Analytics, CRM, RFM
+
+Keywords -> Pyhton, Pandas, Data Analytics, CRM, RFM
 
 ### The Story:
 The UK-based retail company wants to segment its customers and determine marketing strategies according to these segments.
